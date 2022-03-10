@@ -2,6 +2,6 @@
 
 Petunjuk:
 
-- jalankan script di terminal dengan cara python code.py
+- jalankan script di terminal dengan cara ```python code.py```
 - script akan meminta input nama negara
 - ketikkan nama negara
